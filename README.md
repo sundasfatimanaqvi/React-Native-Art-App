@@ -1,7 +1,7 @@
 # How to run?
 - Set up your [react native cli enviornment](https://reactnative.dev/docs/environment-setup?guide=native)
 - Create new react native project named MP (short for My Project)
-- Download the components zip file.
+- Download the [components zip file](https://github.com/sundasfatimanaqvi/React-Native-Art-App/blob/main/components.rar).
 - Download the assests zip file.
 - After Extracting paste them in the directory where you have created the project. 
 - Update the App.tsx code using the code file provided in the uploaded App.tsx file.
