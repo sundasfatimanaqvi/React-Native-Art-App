@@ -2,11 +2,11 @@
 - Set up your [react native cli enviornment](https://reactnative.dev/docs/environment-setup?guide=native)
 - Create new react native project named MP (short for My Project)
 - Download the [components zip file](https://github.com/sundasfatimanaqvi/React-Native-Art-App/blob/main/components.rar).
-- Download the assests zip file.
+- Download the [assests zip file](https://github.com/sundasfatimanaqvi/React-Native-Art-App/blob/main/assets.rar).
 - After Extracting paste them in the directory where you have created the project. 
-- Update the App.tsx code using the code file provided in the uploaded App.tsx file.
+- Update the App.tsx code using the code file provided in the uploaded [App.tsx file] (https://github.com/sundasfatimanaqvi/React-Native-Art-App/blob/main/App.tsx).
 - Go to project directory, then android , then app, then src, then main you will find a xml file named AndroidManifest.
-- Update the code using the AndroidManifest file uploaded.
+- Update the code using the [AndroidManifest] (https://github.com/sundasfatimanaqvi/React-Native-Art-App/blob/main/AndroidManifest.xml) file uploaded.
 - For the Uploading art funtionality you will need to upload files in your android emulator first for that:
 -  1: Open Andriod studio
 -  2: Open project MP
